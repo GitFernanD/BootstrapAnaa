@@ -1,0 +1,25 @@
+body {
+    background-image: url(../img/Kimetsu.jpg);
+    background-size:100%;
+}
+
+h1 {
+    background-color: rgb(250, 198, 101);
+    border: solid darkorange;
+    padding-left: 10px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.TM {
+    width: 100%;
+    height: 30%;
+    align-items: center;
+}
+
+.Bor {
+    border:solid 3px black ;
+    border-radius: 3%;
+}
+
+
